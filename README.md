@@ -1,0 +1,2 @@
+# adguardhost
+Chặn quảng cáo 
