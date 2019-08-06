@@ -5,3 +5,8 @@
 ||fabet.com^
 ||8live.com^
 ||fabet.com^
+@@||log.api.zaloapp.com^$important
+127.0.0.1 fabet.com^
+|| click.mibet88.com^
+127.0.0.1 click.mibet88.com
+|| *bet
