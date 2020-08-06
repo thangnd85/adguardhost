@@ -1,15 +1,14 @@
 # --------------------------------------------
 # Blocked domains:
-||mibet88.com^
-||five88.com^
-||fabet.com^
-||8live.com^
-||fabet.com^
-@@||log.api.zaloapp.com^$important
+|| *.mibet88.com^
+|| *.five88.com^
+|| *.fabet.com^
+|| *.8live.com^
+|| *.fabet.com^
 127.0.0.1 fabet.com^
 || click.mibet88.com^
 127.0.0.1 click.mibet88.com
 || *bet
 *.youtube.com.^ *.youtube.com^
-||*.youtube^$replace=/.com/.com./
-||*.cheap-ads.net^
+|| *.youtube^$replace=/.com/.com./
+|| *.cheap-ads.net^
