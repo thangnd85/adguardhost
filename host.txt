@@ -11,3 +11,4 @@
 *.youtube.com.^ *.youtube.com^
 || *.youtube^$replace=/.com/.com./
 ||cheap-ads.net^
+||videoad.phimmoicdn.net^
