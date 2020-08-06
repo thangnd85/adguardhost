@@ -1,14 +1,13 @@
 # --------------------------------------------
 # Blocked domains:
-|| *.mibet88.com^
-|| *.five88.com^
-|| *.fabet.com^
-|| *.8live.com^
-|| *.fabet.com^
+||mibet88.com^
+||five88.com^
+||fabet.com^
+||8live.com^
+||fabet.com^
 127.0.0.1 fabet.com^
-|| click.mibet88.com^
+||click.mibet88.com^
 127.0.0.1 click.mibet88.com
-|| *bet
 *.youtube.com.^ *.youtube.com^
 || *.youtube^$replace=/.com/.com./
-|| *.cheap-ads.net^
+||cheap-ads.net^
