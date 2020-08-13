@@ -12,3 +12,4 @@
 || *.youtube^$replace=/.com/.com./
 ||cheap-ads.net^
 ||videoad.phimmoicdn.net^
+||wp.com^
