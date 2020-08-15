@@ -15,3 +15,4 @@
 ||wp.com^
 ||yo88.vip^
 ||*.vip^
+||five88.*^
