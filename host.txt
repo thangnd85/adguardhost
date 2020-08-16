@@ -12,7 +12,6 @@
 || *.youtube^$replace=/.com/.com./
 ||cheap-ads.net^
 ||videoad.phimmoicdn.net^
-||wp.com^
 ||yo88.vip^
 ||*.vip^
 ||five88.*^
