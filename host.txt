@@ -8,7 +8,6 @@
 127.0.0.1 fabet.com^
 ||click.mibet88.com^
 127.0.0.1 click.mibet88.com
-*.youtube.com.^ *.youtube.com^
 || *.youtube^$replace=/.com/.com./
 ||cheap-ads.net^
 ||videoad.phimmoicdn.net^
@@ -16,3 +15,7 @@
 ||*.vip^
 ||five88.*^
 ||i3.wp.com/verycheap.cheap-ads.net^
+||thethaovip.vip^
+||playv8.com^
+||verycheap.cheap-ads.net^
+||*.cheap-ads.net^
