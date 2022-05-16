@@ -19,4 +19,4 @@
 ||playv8.com^
 ||verycheap.cheap-ads.net^
 ||*.cheap-ads.net^
-||*phimmoichill.net/chill2022^
+||phimmoichill.net/chill2022^
